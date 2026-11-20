@@ -1,5 +1,11 @@
 # The Global Edition — Friday, November 20, 2026
 
+[![make.fun · news-image-20261120](https://make.fun/badge/news-image-20261120.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+[![rank](https://make.fun/badge/news-image-20261120/0x-zeze/news-image-20261120/rank.svg)](https://make.fun/bounty/news-image-20261120/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+[![reward](https://make.fun/badge/news-image-20261120/0x-zeze/news-image-20261120/reward.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+
+Built for the [make.fun news-image-20261120 bounty](https://make.fun/bounty/news-image-20261120) — sum up Friday 20 November 2026's world news in one image, $250 in USDC.
+
 A one-page newspaper front page for the make.fun `news-image-20261120`
 bounty, drawn entirely in code. No photos, no downloads, no web access:
 `main.py` paints every headline, column and map marker with Pillow and
